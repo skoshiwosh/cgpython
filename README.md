@@ -1,2 +1,2 @@
 # cgpython
-Documents for teaching Python for visual effects
+Documents for teaching Python for visual effects and game development
